@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="no_internet_connection">No hay conexión a Internet</string>
+    <string name="close">Cerrar</string>
+    <string name="title_activity_parser">Parser</string>
+</resources>
